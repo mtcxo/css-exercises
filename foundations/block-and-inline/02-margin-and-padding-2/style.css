@@ -16,7 +16,7 @@ body {
   font-size: small;
   background: #7ac0ee;
   padding:16px;
-  box-sizing: border-box;
+ 
   margin:4px;
 }
 
@@ -37,6 +37,6 @@ button {
   background: white;
   display: block;
   border: 1px solid #eee;
-  padding: 6px;
+  padding: 6px 32px;
   margin: auto;
 }
